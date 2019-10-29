@@ -6,3 +6,5 @@ git status // 当前修改状态
 git log // 代码本地commit记录
 git clone // 拉取远程仓库代码
 git pull //拉取远程仓库修改到本地
+
+git pull
