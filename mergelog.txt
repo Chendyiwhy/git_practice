@@ -6,3 +6,6 @@
 2019-10-29 09:55:41.046
 
 ffmpeg -i input.mp4
+
+
+git pull self
